@@ -1,4 +1,4 @@
-(ns ch1.my_image
+(ns ch1.my-image
   (:require [clojure.java.io :as io])
   (:import [javax.imageio ImageIO]
            [java.awt.image BufferedImage]))
